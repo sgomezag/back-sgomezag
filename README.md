@@ -1,4 +1,4 @@
-## Welcome to my second test - Butterfly
+## Welcome to my backend test - Butterfly
 ### installation:
 - Please go to the following link and clone the repository from github.com: https://github.com/sgomezag/back-sgomezag
 - Open a Windows console into the directory 
